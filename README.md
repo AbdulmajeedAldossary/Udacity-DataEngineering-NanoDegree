@@ -77,4 +77,4 @@ This repository is organized by project, corresponding to the four courses in th
 - **AWS Services**: S3, Redshift, Glue, Athena
 - **Other**: ETL/ELT, Data Lakehouse Architecture
 
----
+
